@@ -1,3 +1,20 @@
 # oldschool
 
-Nosso projeto está construído de forma que o usúario deve fazer Login para consultar nossa galeria de jogos, após o Login ele tem acesso aos jogos disponiveis e total liberdade para escolher o jogo que desejar, com acesso ao jogo ele pode adicionar no carrinho quantos ele quiser e para efetuar a compra ele escolhe a forma de pagamento da forma que for da preferencia do cliente seja pix, cartão ou boleto e o sistema recolhe e guarda os dados para facilitar a próxima compra ou também para manter a segurança dele, no fim por opção do usúario ele pode fazer Logout e sair do sistema ou trocar de conta caso queira.
+
+## 🚀 Funcionalidade do nosso projeto
+
+Nosso projeto se concentra no setor de jogos, com foco nos jogos retro, nosso sistema funciona da seguinte maneira:
+
+- Cadastro do usuário;
+- Biblioteca com jogos disponiveis;
+- Metodos de pagamentos para facilitar o cliente;
+- segurança dos dados, priorizando o cliente.
+
+## ☕ Estrutura do nosso projeto
+
+Nosso projeto é inteiramente feito usando python
+
+![My Skills](https://skillicons.dev/icons?i=python)
+
+
+
