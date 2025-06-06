@@ -15,6 +15,5 @@ Nosso projeto se concentra no setor de jogos, com foco nos jogos retro, nosso si
 Nosso projeto é inteiramente feito usando python
 
 ![My Skills](https://skillicons.dev/icons?i=python)
-![My Skills](https://skillicons.dev/icons?i=colab)
 
 
